@@ -1,5 +1,5 @@
 ## Install Nexus Repository Manager
-- https://github.com/awanmbandi/maven-nexus-project-eagles-batch/blob/maven-nexus-install/nexus-install.sh
+- https://github.com/tisanbako/devops-project/blob/main/nexus-install.sh
 
 ## Install Apache Maven
 - https://github.com/awanmbandi/maven-nexus-project-eagles-batch/blob/maven-nexus-install/maven-install.md
