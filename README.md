@@ -2,7 +2,7 @@
 - https://github.com/tisanbako/devops-project/blob/main/nexus-install.sh
 
 ## Install Apache Maven
-- https://github.com/awanmbandi/maven-nexus-project-eagles-batch/blob/maven-nexus-install/maven-install.md
+- https://github.com/tisanbako/devops-project/blob/main/maven-install.md
 
 ## Install SonarQube
 - https://github.com/awanmbandi/eagles-batch-devops-projects/blob/maven-nexus-sonarqube-jenkins-install/sonarqube-install.sh
