@@ -5,7 +5,7 @@
 - https://github.com/tisanbako/devops-project/blob/main/maven-install.md
 
 ## Install SonarQube
-- https://github.com/awanmbandi/eagles-batch-devops-projects/blob/maven-nexus-sonarqube-jenkins-install/sonarqube-install.sh
+- https://github.com/tisanbako/devops-project/blob/main/sonarqube-install.sh
 
 ## Configure Nexus Repository 
 
