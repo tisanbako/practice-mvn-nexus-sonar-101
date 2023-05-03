@@ -30,7 +30,7 @@ under the License.
     <server>
       <id>nexusdeploymentrepo</id>
       <username>admin</username>  <!-- Provide Your Nexus Repository Server Username and Password -->
-      <password>admin</password>
+      <password>Jerryjust2luv@</password>
     </server>
 
   </servers>
@@ -86,6 +86,6 @@ under the License.
         <sonar.host.url>http://35.174.154.215:9000</sonar.host.url>
       </properties>
     </profile>
-    <!--End SonarQube/Sonar Profile-->
+    <!--End SonarQube/Sonar Profile--
   </profiles>
 </settings>
