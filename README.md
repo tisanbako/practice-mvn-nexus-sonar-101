@@ -1,7 +1,7 @@
 ## Install Nexus Repository Manager
 - https://github.com/tisanbako/devops-project/blob/main/nexus-install.sh
 
-## Install Apache Maven
+## Install Apache Maven.
 - https://github.com/tisanbako/devops-project/blob/main/maven-install.md
 
 ## Install SonarQube
