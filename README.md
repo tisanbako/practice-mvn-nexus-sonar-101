@@ -4,7 +4,7 @@
 ## Install Apache Maven
 - https://github.com/tisanbako/devops-project/blob/main/maven-install.md
 
-## Install SonarQube.
+## Install SonarQube
 - https://github.com/tisanbako/devops-project/blob/main/sonarqube-install.sh
 
 ## Configure Nexus Repository 
