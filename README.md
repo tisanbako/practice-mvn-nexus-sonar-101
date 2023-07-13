@@ -1,4 +1,4 @@
-## Install Nexus Repository Manager
+## Install Nexus Repository Manager.
 - https://github.com/tisanbako/devops-project/blob/main/nexus-install.sh
 
 ## Install Apache Maven
