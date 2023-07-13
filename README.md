@@ -7,7 +7,7 @@
 ## Install SonarQube
 - https://github.com/tisanbako/devops-project/blob/main/sonarqube-install.sh
 
-## Configure Nexus Repository 
+## Configure Nexus Repository .
 
 Series of tutorial code snippets for use
 #Maven publish tutorial steps
